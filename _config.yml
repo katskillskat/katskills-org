@@ -62,6 +62,7 @@ enforce_ssl: https://katskills.org
 #
 
 permalink: /:title/
+paginate_path: "/news/:num/"
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
