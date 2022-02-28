@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -113,3 +114,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+=======
+theme: jekyll-theme-slate
+>>>>>>> bf7a9d67703d2f2ab6411993c5237e90e5b438a6
