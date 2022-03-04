@@ -6,7 +6,7 @@ permalink: /
 
 ### Welcome to Katskills.org
 This free website is used to share information and collect ideas. The goal is to start having conversations about: 
-- Living in the Central Catkills
+- Living in the Catkills
 - Things we would like to improve
 - Plans & projects to create change
 
