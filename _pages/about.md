@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This website is for people who grew up or live in the Central Catskills full-time.
+This website is for people who grew up or live in the Catskills full-time.
