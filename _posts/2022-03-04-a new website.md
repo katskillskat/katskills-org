@@ -13,17 +13,17 @@ Here are some founding principles, open to suggestion:
 - The administration of this website will be provided for free
 - This website will always be free
 - No advertising. With the exception that local businesses can promote themselves on a specific area of the website (to be created) for free.
-- Adminstration will be kept anonymous and adminstration will rotate. This principle is to prevent the people who maintain this site from leveraging it for their own personal benefit.
+- Adminstration will be kept anonymous and adminstration will rotate. This principle is to prevent the admins from leveraging this site for their own personal benefit.
 
-It's like being chosen to be the person who cleans up a local park while wearing a dinosaur costume. That way, we can ensure that admins are working purely for the good feeling they get from helping others.
+It's like being chosen to be the person who cleans up a local park while wearing a dinosaur costume. We want to ensure that admins are working purely for the good feeling they get from helping others.
 
 ## How can someone become an admin? 
 
-By participating in the community discussions anonymously, suggesting valuable changes to the website, and becomming recognized for the good ideas and contributions that they create anonymously.
+By participating in the community discussions, suggesting valuable changes to the website, and becomming recognized for the good ideas and contributions that they create.
 
 ## Does everyone on this site have to be anonymous? 
 
-No! If you are a member of this community and want to speak with your real voice, go for it! If you use your real name and later want to become an admin, that's fine -- we'll just require that you create a separate anonymous account for administrative activites.
+No! If you are a member of this community and want to speak with your real voice, go for it! If you use your real name and also want to become an admin, that's fine -- we'll just require that you create a separate anonymous account for administrative activites.
 
 ## Why is this website hosted on Github?
 
@@ -33,7 +33,7 @@ Github is owned by Microsoft, so that's questionable -- but we could explore mov
 
 ## Do I have to create a Github account?
 
-If you want to participate in the discussion board, contribute code, or edit the content of the website -- having a Github account is the easiest way to do that. Alternatively, you can email us your ideas or contributions. See the email icon at the bottom of every page (admin@katskills.org).
+If you want to participate in the discussion board, contribute code, or edit the content of the website -- having a Github account is the easiest way to do that. Alternatively, you can email us your ideas or contributions. Email us at admin@katskills.org.
 
 ## Is this a non-profit?
 
