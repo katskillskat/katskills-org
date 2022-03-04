@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is a free and open source website.
+This website is for people who grew up or live in the Central Catskills full-time.
