@@ -4,7 +4,9 @@ title: Introducing Katskills.org
 categories: [Miscellaneous, Github, Website]
 ---
 
-The idea for this website is two-fold. 1. That there could be a better place to have conversations online about the Catkills 2. That it would be cool if it were owned by the community of people who live here. 
+The idea for this website is two-fold. 
+1. That there could be a better place to have conversations online about the Catkills.
+2. That it would be cool if it were owned by the community of people who live here. 
 
 Here are some founding principles, open to suggestion:
 
