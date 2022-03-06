@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Discuss
+title:
 permalink: /discuss/
 ---
-<iframe src="https://github.com/katskillskat/katskills-org/discussions"></iframe>
+[Check out our forum](https://github.com/katskillskat/katskills-org/discussions)
