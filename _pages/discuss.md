@@ -3,4 +3,5 @@ layout: page
 title:
 permalink: /discuss/
 ---
-[Check out our forum](https://github.com/katskillskat/katskills-org/discussions)
+
+<a href="https://github.com/katskillskat/katskills-org/discussions" target="_blank">Check out our forum/a>
