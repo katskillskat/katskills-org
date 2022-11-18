@@ -22,6 +22,7 @@ Topics we hope to dicuss:
 - Night life
 - Internet Access
 - Art
+- Community Events/ Meet-Ups
 
 Why? Things could be better for most people.
 
